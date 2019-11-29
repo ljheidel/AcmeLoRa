@@ -1,0 +1,18 @@
+{
+  "name": "AcmeLoRa",
+  "keywords": "lora,layer 3",
+  "description": "A layer 3 library for lora",
+  "homepage": "https://github.com/ljheidel/AcmeLoRa",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ljheidel/AcmeLoRa.git"
+  },
+  "version": "0.0.1",
+  "authors": {
+    "name": "Luke Heidelberger"
+  },
+  "exclude": [
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
